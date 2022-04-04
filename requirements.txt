@@ -1,0 +1,5 @@
+oemer
+pretty_midi
+music21
+Numpy==1.18.1
+aubio
