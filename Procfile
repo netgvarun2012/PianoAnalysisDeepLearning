@@ -1,2 +1,2 @@
-web: python src/AudioSheetAnalyzer.py
-worker: python src/AudioSheetAnalyzer.py
+web: python src/AudioSheetAnalyzer.py -w "HappyBirthInter.wav"
+worker: python src/AudioSheetAnalyzer.py -w "HappyBirthInter.wav"
