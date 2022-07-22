@@ -2,3 +2,4 @@ pretty_midi
 music21
 Numpy
 pandas
+seaborn
