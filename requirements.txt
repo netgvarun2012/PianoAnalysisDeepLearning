@@ -3,3 +3,4 @@ music21
 Numpy
 pandas
 seaborn
+librosa
